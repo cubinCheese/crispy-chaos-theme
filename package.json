@@ -1,0 +1,21 @@
+{
+  "name": "crispy-chaos-theme",
+  "displayName": "Crispy-Chaos-Theme",
+  "description": "A vscode theme beyond your wildest dreams.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crispy Chaos Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crispy Chaos Theme-color-theme.json"
+      }
+    ]
+  }
+}
