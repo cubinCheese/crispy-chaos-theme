@@ -1,6 +1,7 @@
 # crispy-chaos-color-theme README
 
 
+
 ## Installation
 
 **(1)** Open Visual Studio Code.
