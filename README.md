@@ -1,6 +1,6 @@
 # crispy-chaos-color-theme README
 
-![myDemo](https://github.com/cubinCheese/crispy-chaos-theme/assets/93562548/7288edeb-e67d-40d9-9756-1f9b5c482788)
+![myDemo](https://github.com/cubinCheese/crispy-chaos-theme/assets/93562548/1de66f38-fee7-4452-bbb4-e0ccd400f148)
 
 ## Installation
 
